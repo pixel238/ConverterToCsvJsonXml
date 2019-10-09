@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<employees>
+    <employees>
+        <firstName>Chaman</firstName>
+        <id>1</id>
+        <lastName>Chowdhary</lastName>
+        <salary>100</salary>
+    </employees>
+    <employees>
+        <firstName>pixel</firstName>
+        <id>2</id>
+        <lastName>2</lastName>
+        <salary>200</salary>
+    </employees>
+    <employees>
+        <firstName>lucifer</firstName>
+        <id>3</id>
+        <lastName>3</lastName>
+        <salary>300</salary>
+    </employees>
+</employees>
